@@ -25,12 +25,6 @@ QB.Spawns = {
         label = "City Services",
     },
 
-    ["impound"] = {
-        coords = vector4(403.31, -1626.83, 29.29, 249.99),
-        location = "impound",
-        label = "Impound Lot",
-    },
-
     ["pillbox"] = {
         coords = vector4(296.46, -601.93, 43.3, 81.57),
         location = "pillbox",
