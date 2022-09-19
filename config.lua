@@ -54,4 +54,9 @@ QB.Spawns = {
         location = "casino",
         label = "Diamond Casino",
     },
+    ["pillbox"] = {
+        coords = vector4(293.36, -598.02, 43.27, 116.6),
+        location = "pillbox",
+        label = "Pillbox Hospital",
+    },
 }
