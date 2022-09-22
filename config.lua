@@ -49,11 +49,12 @@ QB.Spawns = {
         label = "Los Santos Airport",
     },
 
-    ["casino"] = {
-        coords = vector4(923.52, 47.24, 81.11, 67.61),
-        location = "casino",
-        label = "Diamond Casino",
+    ["firehq"] = {
+        coords = vector4(-662.09, -75.91, 38.56, 7.99),
+        location = "firehq",
+        label = "Fire Headquarters",
     },
+    
     ["pillbox"] = {
         coords = vector4(293.36, -598.02, 43.27, 116.6),
         location = "pillbox",
