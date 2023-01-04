@@ -43,10 +43,16 @@ QB.Spawns = {
         label = "Paleto Bay Sheriffs Office",
     },
 
-    ["lsairport"] = {
-        coords = vector4(-1036.11, -2731.47, 13.76, 329.6),
-        location = "lsairport",
-        label = "Los Santos Airport",
+    -- ["lsairport"] = {
+    --     coords = vector4(-1036.11, -2731.47, 13.76, 329.6),
+    --     location = "lsairport",
+    --     label = "Los Santos Airport",
+    -- },
+
+    ["taxi"] = {
+        coords = vector4(894.89, -180.27, 74.7, 316.38),
+        location = "taxi",
+        label = "Downtown Cab",
     },
 
     ["firehq"] = {
@@ -55,9 +61,15 @@ QB.Spawns = {
         label = "Fire Headquarters",
     },
     
-    ["pillbox"] = {
-        coords = vector4(293.36, -598.02, 43.27, 116.6),
-        location = "pillbox",
-        label = "Pillbox Hospital",
+    -- ["pillbox"] = {
+    --     coords = vector4(293.36, -598.02, 43.27, 116.6),
+    --     location = "pillbox",
+    --     label = "Pillbox Hospital",
+    -- },
+
+    ["mtzonah"] = {
+        coords = vector4(-441.17, -361.4, 33.39, 130.05),
+        location = "mtzonah",
+        label = "Mt Zonah Hospital",
     },
 }
