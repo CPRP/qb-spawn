@@ -25,10 +25,10 @@ QB.Spawns = {
         label = "City Services",
     },
 
-    ["cityhall"] = {
-        coords = vector4(-544.89, -204.52, 38.22, 210.06),
-        location = "cityhall",
-        label = "City Hall",
+    ["ranger"] = {
+        coords = vector4(392.17, 789.68, 187.67, 124.49),
+        location = "ranger",
+        label = "Park Ranger Station",
     },
 
     ["statepolice"] = {
@@ -43,16 +43,10 @@ QB.Spawns = {
         label = "Paleto Bay Sheriffs Office",
     },
 
-    -- ["lsairport"] = {
-    --     coords = vector4(-1036.11, -2731.47, 13.76, 329.6),
-    --     location = "lsairport",
-    --     label = "Los Santos Airport",
-    -- },
-
-    ["taxi"] = {
-        coords = vector4(894.89, -180.27, 74.7, 316.38),
-        location = "taxi",
-        label = "Downtown Cab",
+    ["casino"] = {
+        coords = vector4(920.28, 41.22, 81.1, 68.3),
+        location = "casino",
+        label = "Diamond Casino",
     },
 
     ["firehq"] = {
